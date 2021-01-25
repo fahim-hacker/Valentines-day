@@ -168,7 +168,7 @@ body {
   top: 122px;
   position: absolute;
   border-radius: 19%;
-  background-image: url("/img/fjasdkl.jpg");
+  background-image: url("/img/rose1.jpg");
   background-repeat: no-repeat;
   background-size: 120% 100%;
   transform: translateX(-200px);
@@ -194,20 +194,20 @@ body {
   }
   55% {
     transform: translateX(100px) rotateY(360deg);
-    background-image: url("/img/jfdsakljsadklf.jpg");
+    background-image: url("/img/rose2.jpg");
     background-size: 120% 100%;
     background-position-x: 0px;
   }
   80% {
     transform: translateX(100px) rotateY(360deg);
-    background-image: url("/img/jfdsakljsadklf.jpg");
+    background-image: url("/img/rose2.jpg");
     background-size: 150% 150%;
     background-position-x: -89px;
     background-position-y: 0px;
   }
   100% {
     transform: translateX(100px) rotateY(360deg);
-    background-image: url("/img/jfdsakljsadklf.jpg");
+    background-image: url("/img/rose2.jpg");
     background-size: 150% 150%;
     background-position-x: -89px;
     background-position-y: -85px;
